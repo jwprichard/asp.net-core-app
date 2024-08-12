@@ -1,3 +1,4 @@
+﻿using new_angular_app.Server.Controllers;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
